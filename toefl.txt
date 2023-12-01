@@ -1,3 +1,5 @@
+Data are organized by questions. 
+
 Context: For years, scholars argued that the practices of cultivation and animal domestication were invented in one or two locations on Earth and then diffused from those centers of innovation. [A] Genetic studies are now showing that many different groups of people in many different places around the globe learned independently to create especially useful plants and animals through selective breeding. [B] Probably both independent invention and diffusion played a role in agricultural innovation. [C] Sometimes the ideas of domestication and cultivation were relayed to new places. In other cases the farmers or herders themselves moved into new zones, taking agriculture or improvements such as new tools or new methods or new plants and animals with them. [D]
 Question: Among the many places that are now known to be centers of independent domestication are Mesopotamia, Central China, and Mesoamerica.
 Answer: B
