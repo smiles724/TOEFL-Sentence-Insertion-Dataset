@@ -5,7 +5,7 @@ A collected dataset to investigate the capability of machine learning models in 
  [Paper link](https://aclanthology.org/2024.findings-emnlp.9/). 
 
 <p align="center">
-  <img src="sample.png" alt="Sample Image" width="300"/>
+  <img src="sample.png" alt="Sample Image" width="750"/>
 </p>
 
 If you utilize it, please don't forget to cite our paper. 
