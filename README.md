@@ -2,7 +2,7 @@
 
 A collected dataset to investigate the capability of machine learning models in the sentence insertion task. 
 
- [Paper link]([https://arxiv.org/pdf/2103.15066.pdf](https://aclanthology.org/2024.findings-emnlp.9/)). 
+ [Paper link](https://aclanthology.org/2024.findings-emnlp.9/). 
 
 If you utilize it, please don't forget to cite our paper. 
 ```
